@@ -1,0 +1,25 @@
+{
+  "name": "10oct_2",
+  "version": "1.0.0",
+  "description": "Node.js tutorial demonstrating Express.js with multiple endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "http",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
